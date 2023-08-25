@@ -5,7 +5,7 @@ Este repositório contém um conjunto de códigos para realizar web scraping no 
 📁 Conteúdo do Repositório
 O repositório está organizado da seguinte forma:
 
-src/: Este diretório contém os arquivos de código fonte.
+src/: Este diretório contém os arquivos de código fonte.\n
 Buser.py: O script de web scraping que extrai os dados do site da Buser.
 ClickBus.py: O script de web scraping que extrai os dados do site da ClickBus.
 
