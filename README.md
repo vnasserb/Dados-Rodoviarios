@@ -1,6 +1,6 @@
 # Web Scraping de Dados Rodoviários (Buser e ClickBus)
 
-Este repositório contém um conjunto de códigos para realizar web scraping no site da ClickBus e Buser, duas plataforma de venda de passagens de ônibus online. O web scraping é feito para extrair informações relevantes sobre itinerários, horários, preços, tipo de assento e duração das viagens para uma determinada combinação de origem e destino e uma determinada data.
+Este repositório contém um conjunto de códigos para realizar web scraping no site da ClickBus e Buser, duas plataformas de venda de passagens de ônibus online. O web scraping é feito para extrair informações relevantes sobre itinerários, horários, preços, tipo de assento e duração das viagens para uma determinada combinação de origem e destino e uma determinada data.
 
 ##  📁 Conteúdo do Repositório
 
