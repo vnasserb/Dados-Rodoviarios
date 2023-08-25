@@ -12,7 +12,7 @@ ClickBus.py: O script de web scraping que extrai os dados do site da ClickBus.
 🚀 Como Usar
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/web-scraping-clickbus.git
+git clone https://github.com/vnasserb/Dados-Rodoviarios.git
 
 Para executar o script de web scraping, você precisará das seguintes dependências:
 
